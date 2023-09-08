@@ -1,0 +1,151 @@
+---
+output: 
+    html_document:
+      plots: 
+        style: Normal
+        align: left
+      page_margins:
+        bottom: 1
+        top: 1
+        right: 1
+        left: 1
+        header: 0.5
+        footer: 0.5
+        gutter: 0
+      page_size:
+        width: 8.5
+        height: 11
+        orient: "portrait"
+    fig_caption: TRUE
+    df_print: kable
+    fig_height: 2.5
+    fig_width: 4
+always_allow_html: TRUE
+editor_options: 
+  chunk_output_type: console
+---
+[//]: # CSS style arguments
+
+<style type="text/css">
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&display=swap");
+
+h1, h2, h3, h4, h5, body, ul, ol, p, td, th {
+font-family: 'Open Sans', sans-serif;
+
+}
+
+
+body{ /* Normal  */
+      font-size: 20px;
+      counter-reset:table figure;
+  }
+
+.table{
+  width:auto;
+  font-size:12px;
+}
+
+td, th{
+  padding-left:10px;
+  text-align: right;
+  font-family: 'Open Sans', sans-serif;
+}
+
+caption::before{
+  counter-increment: table;
+  content: "Table " counter(table) ": ";
+}
+
+.caption::before{
+  counter-increment: figure;
+  content: "Figure " counter(figure) ": ";
+}
+
+caption, .caption{
+  font-style:italic;
+  font-size: 16px;
+  margin-top:0.5em;
+  margin-bottom:0.5em;
+  width:80%;
+  text-align: left;
+}
+
+#TOC {
+  font-size: 17px;
+  width: 100%;
+}
+
+</style>
+
+```{r setup, include=FALSE}
+
+# You can set a default figure size here so you don't have to customize every time
+knitr::opts_chunk$set(fig.width=8, fig.height=6, warning=FALSE, message=FALSE, cache=FALSE, echo=FALSE)
+
+```
+
+```{r}
+
+# '# PROLOG   ##################################################################'
+# '#                                                                           #'
+# '# PROJECT: EHDI                                                             #'
+# '# PURPOSE: To create visualizations for earlyhearinglossdata website        #'
+# '# DIR:     Box\CPHSS\EHDI Seeser\Data\Scripts                               #'
+# '# RPRJ:    Box\CPHSS\EHDI Seeser\Data\Data.Rproj                            #'
+# '# DATA:    Box\CPHSS\EHDI Seeser\Data\website_ready_data                    #'
+# '# AUTHOR:  Veronica L Chaitan                                               #'
+# '# CREATED: Aug 09, 2023                                                     #'
+# '# LATEST:  SEP 07, 2023                                                     #'
+# '# NOTES:                                                                    #'
+# '#                                                                           #'
+# '# PROLOG   ##################################################################'
+
+library(readxl)
+# library(htmltools)
+# library(crosstalk)
+# library(plotly)
+library(kableExtra)
+library(magrittr)
+library(tidyverse)
+
+# for NA in kable
+options(knitr.kable.NA = "")
+
+# Theme settings
+# theme_set(theme_minimal()) - doesn't carry over across chunks in RMD
+# In general
+mytheme <- theme_minimal() + 
+  theme(text = element_text(size=11, color="gray23"),
+        panel.grid = element_blank(),
+        axis.text.x = element_text(size=8, color="gray23"),
+        axis.text.y = element_text(size=10, color="gray23"),
+        axis.title = element_blank(),
+        plot.title = element_blank(),
+        legend.position = "top",
+        legend.title = element_blank())
+
+# Descriptive table information
+vardesc <- read_xlsx("../website_ready_data/variableDescriptionsForWebsite_v1.xlsx") 
+
+# In this case keep just the calculated variables
+vardesc <- vardesc %>%
+  filter(Source == "Calculated from reported data") %>%
+  select(-c(Source,Availability)) %>%
+  mutate(Formula = case_when(Formula == "Tscr - (PaInNoOut + PaInPaOut + PaInReOut + NoInPaOut + NoInReOut) OR ReInNoOut + ReInReOut + ReInPaOut + ReInStDia" ~
+                               "Tscr - (PaInNoOut + PaInPaOut + PaInReOut + NoInPaOut + NoInReOut) <br> OR <br>  ReInNoOut + ReInReOut + ReInPaOut + ReInStDia",
+                             TRUE ~ Formula))
+
+```
+
+```{r}
+
+kable(vardesc,
+      # Align all text to the left
+      align="l")  %>%
+  # Let's identify the variables a little better
+  column_spec(1, bold = T) %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive","bordered"),
+                full_width = T)
+
+```
