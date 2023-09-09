@@ -191,14 +191,15 @@ r1 <- r1 %>%
 
 # {.tabset}
 
-Use this page to explore 2014-2020 EHDI data. Variables or measurements are ordered with reported variables first, followed by calculated variables, and presented alphabetically within each group. Figures are interactive allowing you to hover for more information, zoom in/out, or download a plot as PNG (among the tools in upper right of each plot).
+Use this page to explore 2014-2020 EHDI data. Variables are ordered with reported variables first, followed by calculated variables, and presented alphabetically within each group. Figures are interactive allowing you to hover for more information, zoom in/out, or download a plot as PNG (among the tools in upper right of each plot).
 
+<br>
 
 ## State trends over time 
 
-- Select the measurement at the top to see how states compare over time, 2014-2020.
+- Select the variable at the top to see how states compare over time, 2014-2020.
 
-- Hover over a line to highlight that state. 
+- Hover over a point to highlight and see more information. 
 
 - Double-click a state on the right to focus on that state. Click another to compare. Double-click to reset.
 
@@ -246,7 +247,9 @@ Data not available for every state in 2014-2020. See Data Availability Table for
 
 ## Annual map comparison
 
-With this code we can map to a state the results of a variable in a year. Users can select a single variable and a single year.
+- Select the variable and year at the top to see how states compare.
+
+- Hover over a state to see more information. 
 
 ```{r}
 
@@ -262,7 +265,7 @@ widgets <-
   # We can split the space occupied by each widget for easier viewing - total is 12
   bscols(widths = c(8,4),
          # Create a select filter for the variable
-         filter_select("variableselect", "Please select measurement here", r1SD, ~Variable, multiple = F),
+         filter_select("variableselect", "Please select variable here", r1SD, ~Variable, multiple = F),
          # Create a select filter for the year - seems the only filter to select single year
          filter_select("yearselect", "Please select year here", r1SD, ~Year, multiple = F)
   )
