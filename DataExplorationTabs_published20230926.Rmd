@@ -329,7 +329,7 @@ r1 <- r1 %>%
 
 # {.tabset}
 
-Use this page to explore 2007-2020 EHDI data. Shown below are percentages and rates calculated from EHDI data reported to CDC> 
+Use this page to explore 2007-2020 EHDI data. Shown below are percentages and rates calculated from EHDI data reported to CDC.
 
 Figures are interactive allowing you to hover for more information, zoom in/out, or download a plot as PNG (among the tools in upper right of each plot).
 
@@ -363,7 +363,7 @@ varround <- 3
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -756,7 +756,7 @@ plot6
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -1149,7 +1149,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -1544,7 +1544,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -1939,7 +1939,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -2334,7 +2334,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -2729,7 +2729,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -3126,7 +3126,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -3521,7 +3521,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -3916,7 +3916,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -4311,7 +4311,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -4706,7 +4706,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -5099,7 +5099,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -5494,7 +5494,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -5889,7 +5889,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -6284,7 +6284,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -6679,7 +6679,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -7076,7 +7076,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -7470,7 +7470,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -7865,7 +7865,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -8260,7 +8260,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -8655,7 +8655,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -9048,7 +9048,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -9443,7 +9443,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -9838,7 +9838,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -10233,7 +10233,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -10628,7 +10628,7 @@ varround <- vardesc$Rounding[28]
 
 <br>  
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.  
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.  
 
 <br>
 
@@ -11025,7 +11025,7 @@ varround <- vardesc$Rounding[29]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -11419,7 +11419,7 @@ varround <- vardesc$Rounding[30]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -11814,7 +11814,7 @@ varround <- vardesc$Rounding[31]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -12209,7 +12209,7 @@ varround <- vardesc$Rounding[32]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -12603,7 +12603,7 @@ varround <- vardesc$Rounding[33]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -12627,7 +12627,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -13020,7 +13020,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -13413,7 +13413,7 @@ varround <- vardesc$Rounding[35]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -13807,7 +13807,7 @@ varround <- vardesc$Rounding[36]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -13831,7 +13831,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -14226,7 +14226,7 @@ varround <- vardesc$Rounding[37]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -14621,7 +14621,7 @@ varround <- vardesc$Rounding[38]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -15018,7 +15018,7 @@ varround <- vardesc$Rounding[39]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -15409,7 +15409,7 @@ varround <- vardesc$Rounding[40]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -15804,7 +15804,7 @@ varround <- vardesc$Rounding[41]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -16199,7 +16199,7 @@ varround <- vardesc$Rounding[42]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -16590,7 +16590,7 @@ varround <- vardesc$Rounding[43]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -16982,7 +16982,7 @@ varround <- vardesc$Rounding[44]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -17372,7 +17372,7 @@ varround <- vardesc$Rounding[45]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -17763,7 +17763,7 @@ varround <- vardesc$Rounding[46]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -18158,7 +18158,7 @@ plot6
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -18553,7 +18553,7 @@ varround <- vardesc$Rounding[48]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -18950,7 +18950,7 @@ plot6
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -19349,7 +19349,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -19744,7 +19744,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -20139,7 +20139,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -20530,7 +20530,7 @@ This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Def
 
 <!-- <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br> -->
 
@@ -20922,7 +20922,7 @@ varround <- vardesc$Rounding[54]
 
 <br>
 
-This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`: `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
