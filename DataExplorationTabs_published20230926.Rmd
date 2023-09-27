@@ -363,7 +363,7 @@ varround <- 3
 
 <br>
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
 
 <br>
 
@@ -754,7 +754,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -1143,7 +1147,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -1534,7 +1542,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -1925,7 +1937,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -2316,7 +2332,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -2707,7 +2727,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -3100,7 +3124,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -3491,7 +3519,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -3882,7 +3914,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -4273,7 +4309,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -4664,7 +4704,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -5053,7 +5097,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -5444,7 +5492,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -5835,7 +5887,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -6226,7 +6282,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -6617,7 +6677,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -7010,7 +7074,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -7400,7 +7468,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -7791,7 +7863,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -8182,7 +8258,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -8573,7 +8653,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -8962,7 +9046,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -9353,7 +9441,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -9744,7 +9836,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -10135,7 +10231,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -10526,7 +10626,11 @@ varround <- vardesc$Rounding[28]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>  
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.  
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -10919,7 +11023,11 @@ varround <- vardesc$Rounding[29]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -11309,7 +11417,11 @@ varround <- vardesc$Rounding[30]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -11700,7 +11812,11 @@ varround <- vardesc$Rounding[31]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -12091,7 +12207,11 @@ varround <- vardesc$Rounding[32]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -12481,7 +12601,11 @@ varround <- vardesc$Rounding[33]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 
 
@@ -12501,7 +12625,11 @@ This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -12890,7 +13018,11 @@ This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -13279,7 +13411,11 @@ varround <- vardesc$Rounding[35]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -13669,7 +13805,11 @@ varround <- vardesc$Rounding[36]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 
 
@@ -13689,7 +13829,11 @@ This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -14080,7 +14224,11 @@ varround <- vardesc$Rounding[37]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -14471,7 +14619,11 @@ varround <- vardesc$Rounding[38]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -14864,7 +15016,11 @@ varround <- vardesc$Rounding[39]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -15251,7 +15407,11 @@ varround <- vardesc$Rounding[40]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -15642,7 +15802,11 @@ varround <- vardesc$Rounding[41]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -16033,7 +16197,11 @@ varround <- vardesc$Rounding[42]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -16420,7 +16588,11 @@ varround <- vardesc$Rounding[43]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -16808,7 +16980,11 @@ varround <- vardesc$Rounding[44]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -17194,7 +17370,11 @@ varround <- vardesc$Rounding[45]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -17581,7 +17761,11 @@ varround <- vardesc$Rounding[46]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -17972,7 +18156,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -18363,7 +18551,11 @@ varround <- vardesc$Rounding[48]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
@@ -18756,7 +18948,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -19151,7 +19347,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -19542,7 +19742,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -19933,7 +20137,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -20320,7 +20528,11 @@ plot6
 
 <!-- ``` -->
 
-<!-- This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`. -->
+<!-- <br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br> -->
 
 <!-- ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em> -->
 
@@ -20708,7 +20920,11 @@ varround <- vardesc$Rounding[54]
 
 ```
 
-This section takes a look at `r unique(r_var$name)`, `r unique(r_var$Definition)`. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+<br>
+
+This section takes a look at <strong>`r unique(r_var$name)`, `r unique(r_var$Definition)`</strong>. It was calculated using the formula `r unique(r_var$Formula)`. `r unique(r_var$"Decision Maker Takeaway")`.
+
+<br>
 
 ### <em>States above and below 2020 median `r unique(r_var$name)` value by year, 2007-2020</em>
 
