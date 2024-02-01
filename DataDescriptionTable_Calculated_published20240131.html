@@ -1464,10 +1464,10 @@ Variable Abbreviation
 Definition
 </th>
 <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
-Formula
+Decision Maker Takeaway
 </th>
 <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
-Decision Maker Takeaway
+Formula
 </th>
 </tr>
 </thead>
@@ -1483,12 +1483,12 @@ HLp
 Prevalence of hearing loss
 </td>
 <td style="text-align:left;">
-HL / Tscr * 1000
-</td>
-<td style="text-align:left;">
 This metric can easily identify the states with higher/lower hearing
 loss prevalence, and additionally, this information helps determine the
 need for additional investment in audiology services.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula HL / Tscr * 1000.
 </td>
 </tr>
 <tr>
@@ -1502,11 +1502,11 @@ NPr
 Rate of not pass the last screening test per 1000 screened
 </td>
 <td style="text-align:left;">
-TotNotPas / Tscr * 1000
-</td>
-<td style="text-align:left;">
 This metric will help compare the rate of infants that have failed their
 last screening tests.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula TotNotPas / Tscr * 1000.
 </td>
 </tr>
 <tr>
@@ -1520,11 +1520,11 @@ LTFr
 Rate of loss to follow-up per 1000 screened
 </td>
 <td style="text-align:left;">
-LTF / Tscr * 1000
-</td>
-<td style="text-align:left;">
 This metric assists decision-makers in focusing on babies who can be
 lost to follow-up, guiding investments and policy decisions.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula LTF / Tscr * 1000.
 </td>
 </tr>
 <tr>
@@ -1539,11 +1539,11 @@ Rate of not pass the screening and missed out on the screening and
 diagnostics per 1000 screened
 </td>
 <td style="text-align:left;">
-CLEAR / Tscr * 1000
-</td>
-<td style="text-align:left;">
 This metric enables decision-makers to identify those not helped by the
 program due to various reasons, requiring further exploration.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula CLEAR / Tscr * 1000.
 </td>
 </tr>
 <tr>
@@ -1557,11 +1557,12 @@ Dr
 Rate of diagnosis (hearing loss or no hearing loss) per 1000 screened
 </td>
 <td style="text-align:left;">
-(NHL + HL) / Tscr * 1000
-</td>
-<td style="text-align:left;">
 This metric enables policymakers to analyze states with a burden of
 hearing loss cases needing attention.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula (NHL + HL) / Tscr * 1000. Any
+missing value in the sum was ignored.
 </td>
 </tr>
 <tr>
@@ -1576,11 +1577,11 @@ Rate of enrollment in early intervention per 1000 screened (Part C &amp;
 Non-part C)
 </td>
 <td style="text-align:left;">
-EI / Tscr * 1000
-</td>
-<td style="text-align:left;">
 This metric aids in determining the need for hearing loss intervention
 services, allowing decision-makers to allocate resources wisely.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula EI / Tscr * 1000.
 </td>
 </tr>
 <tr>
@@ -1595,11 +1596,11 @@ Rate of enrollment in early intervention before 6 months of age per 1000
 screened (Part C &amp; Non-part C)
 </td>
 <td style="text-align:left;">
-EI6 / Tscr * 1000
-</td>
-<td style="text-align:left;">
 This metric assists decision-makers in assessing the effectiveness of
 early intervention services for infants.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula EI6 / Tscr * 1000.
 </td>
 </tr>
 <tr>
@@ -1613,10 +1614,10 @@ PerTscr
 Percentage of babies screened out of total births
 </td>
 <td style="text-align:left;">
-Tscr / Birth * 100
+This metric helps calculate the efficiency of the screening program.
 </td>
 <td style="text-align:left;">
-This metric helps calculate the efficiency of the screening program.
+It was calculated using the formula Tscr / Birth * 100.
 </td>
 </tr>
 <tr>
@@ -1630,11 +1631,11 @@ PerTNscr
 Percentage of babies not screened out of total births
 </td>
 <td style="text-align:left;">
-TNscr / Birth * 100
-</td>
-<td style="text-align:left;">
 This metric highlights babies who are not a beneficiary of early hearing
 loss detection program.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula TNscr / Birth * 100.
 </td>
 </tr>
 <tr>
@@ -1648,11 +1649,11 @@ PerNPIS
 Percentage of babies not passing inpatient screening out of screened
 </td>
 <td style="text-align:left;">
-NPIS / Tscr * 100
-</td>
-<td style="text-align:left;">
 This metric helps identify babies who are more likely to have permanent
 hearing loss, guiding intervention based on these numbers.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula NPIS / Tscr * 100.
 </td>
 </tr>
 <tr>
@@ -1667,11 +1668,11 @@ Percentage of babies referred to outpatient out of not passed inpatient
 screening
 </td>
 <td style="text-align:left;">
-ReferOP / NPIS * 100
-</td>
-<td style="text-align:left;">
 This metric helps identify babies needing outpatient screening and
 requires special attention.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula ReferOP / NPIS * 100.
 </td>
 </tr>
 <tr>
@@ -1686,12 +1687,12 @@ Percentage of babies referred directly to diagnostics out of not passed
 inpatient screening
 </td>
 <td style="text-align:left;">
-ReInStDia / NPIS * 100
-</td>
-<td style="text-align:left;">
 This metric highlights babies requiring special attention as they lie in
 a higher probability zone of hearing loss because of familial history or
 any chronic diseases.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula ReInStDia / NPIS * 100.
 </td>
 </tr>
 <tr>
@@ -1705,11 +1706,11 @@ PerOPS
 Percentage of actual outpatient screenings out of referred to outpatient
 </td>
 <td style="text-align:left;">
-OPS / (ReferOP + ReInStDia)* 100
-</td>
-<td style="text-align:left;">
 This metric accounts for those who reported to outpatient screening and
 indicates those who did not report to outpatient screening.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula OPS / ReferOP * 100.
 </td>
 </tr>
 <tr>
@@ -1724,11 +1725,11 @@ Percentage of babies not pass outpatient screening out of actual
 outpatient screened
 </td>
 <td style="text-align:left;">
-NPOS / OPS * 100
-</td>
-<td style="text-align:left;">
 This metric helps determine the actual need for intervention services
 for babies across the region.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula NPOS / OPS * 100.
 </td>
 </tr>
 <tr>
@@ -1742,11 +1743,11 @@ PerLTF
 Percentage of loss to follow-up out of not pass last screening test
 </td>
 <td style="text-align:left;">
-LTF / TotNotPas * 100
-</td>
-<td style="text-align:left;">
 This metric helps policymakers to make adjustments in the existing
 policy to track back the lost babies not passed.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula LTF / TotNotPas * 100.
 </td>
 </tr>
 <tr>
@@ -1761,11 +1762,12 @@ Percentage of babies diagnosed with either hearing loss or no hearing
 loss out of not passed last screening
 </td>
 <td style="text-align:left;">
-(NHL + HL) / TotNotPas * 100
-</td>
-<td style="text-align:left;">
 This metric can used as a measure of performance comparing states’ and
 cities.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula (NHL + HL) / TotNotPas * 100. Any
+missing value in the sum was ignored.
 </td>
 </tr>
 <tr>
@@ -1780,10 +1782,11 @@ Percentage of babies with hearing loss out of those diagnosed with
 either hearing loss or no hearing loss
 </td>
 <td style="text-align:left;">
-HL / (NHL + HL) * 100
+This metric traces the burden of actual hearing loss cases.
 </td>
 <td style="text-align:left;">
-This metric traces the burden of actual hearing loss cases.
+It was calculated using the formula HL / (NHL + HL) * 100. Any missing
+value in the sum was ignored.
 </td>
 </tr>
 <tr>
@@ -1798,11 +1801,11 @@ Percentage of babies with hearing loss before 3 months of age out of
 hearing loss
 </td>
 <td style="text-align:left;">
-HL3 / HL * 100
-</td>
-<td style="text-align:left;">
 This metric helps decision-makers to focus on the interventions
 targetting children before 3 months of age.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula HL3 / HL * 100.
 </td>
 </tr>
 <tr>
@@ -1817,12 +1820,12 @@ Percentage of enrollment in early intervention out of total with hearing
 loss (Part C &amp; Non-part C)
 </td>
 <td style="text-align:left;">
-EI / HL * 100
-</td>
-<td style="text-align:left;">
 This metric highlights the proportion of babies with hearing loss who
 are enrolled in intervention, providing insights into enrollment
 patterns.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula EI / HL * 100.
 </td>
 </tr>
 <tr>
@@ -1837,11 +1840,11 @@ Percentage of enrollment in early intervention before 6 months of age
 out of total with hearing loss (Part C &amp; Non-part C)
 </td>
 <td style="text-align:left;">
-EI6 / HL * 100
-</td>
-<td style="text-align:left;">
 This metric enables decision-makers to evaluate the effectiveness of the
 early intervention program in achieving timely enrollments.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula EI6 / HL * 100.
 </td>
 </tr>
 <tr>
@@ -1855,11 +1858,12 @@ NPIS
 Total babies who did not pass inpatient screening
 </td>
 <td style="text-align:left;">
-ReInNoOut + ReInReOut + ReInPaOut + ReInStDia
-</td>
-<td style="text-align:left;">
 This metric helps policymakers to compare states and cities with the
 potential babies needing attention or EHDI services.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula ReInNoOut + ReInReOut + ReInPaOut +
+ReInStDia. Any missing value in the sum was ignored.
 </td>
 </tr>
 <tr>
@@ -1873,13 +1877,15 @@ ReferOP
 Total babies referred to the outpatient screening
 </td>
 <td style="text-align:left;">
-NoInPaOut + NoInReOut + ReInNoOut + ReInReOut + ReInPaOut + PaInPaOut +
-PaInReOut
-</td>
-<td style="text-align:left;">
 This metric helps to directly track and compare outpatient load and keep
 track of those who not accessed outpatient services despite being
 referred.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula NoInPaOut + NoInReOut + ReInNoOut +
+ReInReOut + ReInPaOut + PaInPaOut + PaInReOut. This formula is
+equivalent to (POS + ReInNoOut). Any missing value in the sum was
+ignored.
 </td>
 </tr>
 <tr>
@@ -1893,12 +1899,13 @@ OPS
 Total babies who passed or failed the outpatient screening
 </td>
 <td style="text-align:left;">
-POS + NPOS
-</td>
-<td style="text-align:left;">
 This metric enables decision makers to help see the actual burden of
 outpatient screening services and weight between inpatient or outpatient
 services.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula POS + NPOS. Any missing value in the
+sum was ignored.
 </td>
 </tr>
 <tr>
@@ -1913,11 +1920,12 @@ Total babies who did not pass inpatient screening because of temporary
 conditions that resolved before the second screening
 </td>
 <td style="text-align:left;">
-NoInPaOut + ReInPaOut + PaInPaOut
-</td>
-<td style="text-align:left;">
 This metric will help decision makers visualize outpatient screening
 burden.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula NoInPaOut + ReInPaOut + PaInPaOut.
+Any missing value in the sum was ignored.
 </td>
 </tr>
 <tr>
@@ -1931,13 +1939,14 @@ NPOS
 Total babies who did not pass outpatient screening
 </td>
 <td style="text-align:left;">
-NoInReOut + ReInReOut + PaInReOut
-</td>
-<td style="text-align:left;">
 This metric highlights babies that did not pass inpatient screening, it
 represents babies who failed two screenings and thus are more likely to
 have a higher percentage of babies who will be found to have hearing
 loss upon diagnosis.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula NoInReOut + ReInReOut + PaInReOut.
+Any missing value in the sum was ignored.
 </td>
 </tr>
 <tr>
@@ -1952,11 +1961,12 @@ Total babies who did not pass the screening and missed out on the
 screening and diagnostics
 </td>
 <td style="text-align:left;">
-TotNotPas - (NHL + HL + LTF)
-</td>
-<td style="text-align:left;">
 This metric enables decision-makers to figure out those not accounted
 for by diagnosis and loss to follow-up.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula TotNotPas - (NHL + HL + LTF). Any
+missing value in the sum was ignored.
 </td>
 </tr>
 <tr>
@@ -1970,11 +1980,12 @@ EI
 Total enrollment in early intervention (Part C &amp; Non-Part C)
 </td>
 <td style="text-align:left;">
-ToEnEIPC + ToEnrEINPC
-</td>
-<td style="text-align:left;">
 This metric serves as a key identifier for assessing the overall
 utilization of the early intervention program.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula ToEnEIPC + ToEnrEINPC. Any missing
+value in the sum was ignored.
 </td>
 </tr>
 <tr>
@@ -1989,11 +2000,12 @@ Total enrollment in early intervention before 6 months of age (Part C
 &amp; Non-Part C)
 </td>
 <td style="text-align:left;">
-ToEnrEI6PC + ToEnrEI6NPC
-</td>
-<td style="text-align:left;">
 This metric serves as a key identifier for assessing the overall
 utilization of the early intervention program before 6 months of age.
+</td>
+<td style="text-align:left;">
+It was calculated using the formula ToEnrEI6PC + ToEnrEI6NPC. Any
+missing value in the sum was ignored.
 </td>
 </tr>
 </tbody>
